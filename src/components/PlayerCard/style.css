@@ -4,4 +4,11 @@
 
 #player-pic {
     width: 250px;
+    border-color: #CE1141;
+    border-radius: 50px;
+    border-width: 3px;
+}
+
+#player-name, #player-position {
+    font-family: 'Anton', sans-serif;
 }

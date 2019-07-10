@@ -1,3 +1,23 @@
 body {
     color: white;
 }
+
+.navbar-brand {
+    color: #ce1141;
+    display: flex;
+    font-family: 'Raleway', sans-serif;
+}
+
+.navbar {
+    background-color: #0c2240;
+}
+
+#braves-logo {
+    max-height: 35px;;
+    display: flex;
+    margin-right: 10px;
+}
+
+#top-navigation-bar {
+    margin: 0;
+}
